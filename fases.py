@@ -50,7 +50,7 @@ FASES_MATRIZ = [
         "##########"
     ],
     
-    # Fase 4 - Múltiplas caixas (se quiser expandir)
+    # Fase 4 - Múltiplas caixas
     [
         "##########",
         "#........#",
