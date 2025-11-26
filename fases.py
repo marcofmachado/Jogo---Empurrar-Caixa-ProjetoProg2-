@@ -1,10 +1,10 @@
 # fases.py - Versão com matrizes
 
 # Definição de símbolos:
-# 'P' = Personagem (Player)
-# 'C' = Caixa (Crate)
-# 'A' = Alvo (Target)
-# '#' = Obstáculo (Wall)
+# 'P' = Personagem
+# 'C' = Caixa
+# 'A' = Alvo
+# '#' = Obstáculo
 # '.' = Espaço vazio
 
 FASES_MATRIZ = [
